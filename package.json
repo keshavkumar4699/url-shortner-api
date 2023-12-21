@@ -1,0 +1,16 @@
+{
+  "name": "url-shortner-api",
+  "version": "1.0.0",
+  "description": "an url shortner api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Keshav Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3",
+    "nodemon": "^3.0.2"
+  }
+}
